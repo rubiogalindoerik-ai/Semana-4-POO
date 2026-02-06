@@ -207,7 +207,7 @@ public class Ejercicio5 {
 **Salida esperada**
 ---
 
-![](img/Ejercicio5)
+![](img/Ejercicio5.png)
 ---
 
 ## 6. Verificar si un arreglo está ordenado (medio)
@@ -253,7 +253,7 @@ public class Ejercicio6 {
 **Salida esperada**
 ---
 
-![](img/Ejercicio6)
+![](img/Ejercicio6.png)
 ---
 
 ## 7. Clase Rectangulo con métodos de área y perímetro (medio)
@@ -336,7 +336,7 @@ public class Ejercicio7 {
 **Salida esperada**
 ---
 
-![](img/Ejercicio7)
+![](img/Ejercicio7.png)
 ---
 
 ## 8. Buscar un número en un arreglo (medio)
@@ -528,7 +528,7 @@ public class Ejercicio9 {
 **Salida esperada (resumen)**
 ---
 
-![](img/Ejercicio9)
+![](img/Ejercicio9.png)
 ---
 
 ## 10. Calculadora con menú usando switch (medio)
@@ -613,7 +613,7 @@ public class Ejercicio10 {
 **Salida esperada (resumen)**
 ---
 
-![](img/Ejercicio10)
+![](img/Ejercicio10.png)
 ---
 
 ## 11. Arreglo de productos con precio final (medio–alto)
@@ -750,7 +750,7 @@ public class Ejercicio11 {
 
 ---
 
-![](img/Ejercicio11)
+![](img/Ejercicio11.png)
 ---
 
 ## 12. Verificar si una frase es palíndromo (medio–alto)
@@ -805,7 +805,7 @@ public class Ejercicio12 {
 **Salida esperada**
 ---
 
-![](img/Ejercicio12.java)
+![](img/Ejercicio12.png)
 ---
 
 ## 13. Matriz de notas (medio–alto)
@@ -864,7 +864,7 @@ public class Ejercicio13 {
 **Salida esperada**
 ---
 
-![](img/Ejercicio13)
+![](img/Ejercicio13.png)
 ---
 
 ## 14. Sistema simple de login con intentos limitados (medio–alto)
@@ -914,7 +914,7 @@ public class Ejercicio14 {
 **Salida esperada**
 ---
 
-![](img/Ejercicio14)
+![](img/Ejercicio14.png)
 ---
 
 ## 15. Gestión de inventario con clase y menú (difícil)
@@ -1145,4 +1145,4 @@ public class Ejercicio15 {
 **Salida esperada (resumen)**
 ---
 
-![](img/Ejercicio15)
+![](img/Ejercicio15.png)
